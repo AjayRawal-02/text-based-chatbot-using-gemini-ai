@@ -1,0 +1,2 @@
+get your api key from ai studios google and paste it in api key variable
+install google.generativeai in your system
